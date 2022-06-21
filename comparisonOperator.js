@@ -63,3 +63,25 @@ let number14 = 30;
 let not_equal_strict2 = number13 !== number14;
 console.log(not_equal_strict2);
 console.log('');
+
+
+// greater than or less than comparison
+console.log("is 5 greater than 3 ?");
+console.log(5 > 3);
+console.log('');
+
+
+console.log("is 3 less than 6 ?");
+console.log(3 < 6);
+console.log('');
+
+
+// greater than or equal / less than or equal -----> this checks if both items are equal or greater/lesser than each other
+console.log("is 4 less than or equal to 4 ?");
+console.log(4 <= 4);
+console.log('');
+
+
+console.log("is 4 greater than or equal to 3 ?");
+console.log(4 >= 3);
+console.log('');
